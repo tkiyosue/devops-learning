@@ -5,7 +5,7 @@ test('the learning game starts, moves, and fires', async ({ page }) => {
 
   await expect(
     page.getByRole('heading', {
-      name: 'CI/CD を学べる Vue 製シューティングゲーム教材',
+      name: 'CI/CD を楽しく学べる Vue 製シューティングゲーム教材',
     })
   ).toBeVisible()
 
