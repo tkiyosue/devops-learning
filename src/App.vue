@@ -171,7 +171,7 @@ onUnmounted(() => {
     <section class="hero">
       <div class="hero__copy">
         <p class="hero__eyebrow">DevOps Learning Lab</p>
-        <h1>CI/CD を学べる Vue 製シューティングゲーム教材</h1>
+        <h1>CI/CD を楽しく学べる Vue 製シューティングゲーム教材</h1>
         <p class="hero__lead">
           このリポジトリは、コードを少し直して、コミットして、PR
           を出して、GitHub Pages に公開されるまでを体験するための練習場です。
