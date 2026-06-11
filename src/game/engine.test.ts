@@ -19,7 +19,7 @@ describe('game engine', () => {
     expect(state.status).toBe('idle')
     expect(state.playerColumn).toBe(4)
     expect(state.enemies).toHaveLength(7)
-    expect(state.lives).toBe(2)
+    expect(state.lives).toBe(3)
   })
 
   it('keeps the player inside the board', () => {
